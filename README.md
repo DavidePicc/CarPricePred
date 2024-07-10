@@ -8,6 +8,10 @@ Simply a project developed by two friends to calculate the price of a used car u
 ### Demo
 Available at the following [link](https://davidepic.pythonanywhere.com/).
 
+### Credits
+Davide Picello - https://github.com/DavidePicc
+Anthony Fantin - https://github.com/tonyfant
+
 ---
 ---
 ---
@@ -19,3 +23,7 @@ Semplicemente un progetto sviluppato da due amici per calcolare il prezzo di un'
 
 ### Demo
 Disponibile al seguente [link](https://davidepic.pythonanywhere.com/).
+
+### Crediti
+Davide Picello - https://github.com/DavidePicc
+Anthony Fantin - https://github.com/tonyfant
